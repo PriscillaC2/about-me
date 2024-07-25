@@ -42,7 +42,7 @@ struct ContentView: View {
                 .renderingMode(.original)
                 .resizable(resizingMode: .stretch)
                 .aspectRatio(contentMode: .fit)
-            Text("Baking")
+            Text("Baking Cookies")
 
                 .foregroundColor(Color.orange)
             Image("cookie")
